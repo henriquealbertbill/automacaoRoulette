@@ -28,9 +28,12 @@ npm run test
 # Autor
 
 Henrique Albert 
+
 www.linkedin.com/in/henrique-albert-f-loyola
 
 # Em execução: 
+
+Clique no Gif para ir ao video do youtube com a execução.
 
 [![Demo Automation](https://j.gifs.com/QkKEzY.gif)](https://youtu.be/huGi7NTCf8E)
 
