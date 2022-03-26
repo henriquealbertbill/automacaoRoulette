@@ -1,10 +1,36 @@
-# automacaoRoulette
+# Sobre o projeto
 
 Este é um projeto de automação utlizando o frameWork CodeceptJS baseado em JavaScprit. Tem como interpretador o pupperter.
+Utilizando cucumber e escrita em BDD.
+Feito com POO(Programação Orientada a Objeto).
 
-Para executar em sua máquina:
+Encontrei na internet um game de roleta aleátorio em html para que eu pudesse fazer a automação.
+Esté projeto não tem ligação nenhuma com o site acessado para executar o scprit.
 
-Faço download do repositorio
-Rode: npm install #Para instalar as dependencias
+# Como executar o projeto
+## Front end web
+Pré-requisitos: npm
 
-Para rodar: npm run test
+```bash
+# clonar repositório
+git clone https://github.com/henriquealbertbill/automacaoRoulette
+
+# entrar na pasta do projeto front end web
+cd automacaoRoulette
+
+# instalar dependências
+npm install
+
+# executar o projeto
+npm run test
+```
+
+# Autor
+
+Henrique Albert 
+www.linkedin.com/in/henrique-albert-f-loyola
+
+# Em execução: 
+
+[![Demo Automation](https://j.gifs.com/QkKEzY.gif)](https://youtu.be/huGi7NTCf8E)
+
