@@ -1,0 +1,19 @@
+{
+  "name": "automacao-roleta",
+  "version": "1.0.0",
+  "description": "Automacao de uma roleta de um site qualquer",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx codeceptjs run --steps"
+  },
+  "author": "Henrique Albert",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "8.1.3"
+  },
+  "devDependencies": {
+    "codeceptjs": "^3.3.0",
+    "mocha": "8.1.3",
+    "puppeteer": "^5.5.0"
+  }
+}
